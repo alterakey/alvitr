@@ -1,4 +1,6 @@
 .DS_Store
+MANIFEST
+
 *.py[cod]
 
 # C extensions
