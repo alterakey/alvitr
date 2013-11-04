@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # query.py: Query issuer.
 # Copyright (C) 2013 Takahiro Yoshimura <altakey@gmail.com>
 #

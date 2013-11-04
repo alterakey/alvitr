@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # load.py: Documentation/text loader.
 # Copyright (C) 2013 Takahiro Yoshimura <altakey@gmail.com>
 #
